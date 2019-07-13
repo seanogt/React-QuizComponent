@@ -21,17 +21,6 @@
         "4"
       ],
       "answer": "4"
-    },
-    {
-      "id": 3,
-      "instruction_text": "What's your favorite humming noise?",
-      "answer_options": [
-        "1",
-        "2",
-        "3",
-        "4"
-      ],
-      "answer": "4"
     }
   ]
 }
